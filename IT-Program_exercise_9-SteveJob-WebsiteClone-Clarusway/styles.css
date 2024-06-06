@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header-container {
+    text-align: center;
+    padding: 8px;
+    margin: 4% 5% 1% 5%; /* header horizontally */
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.7% auto 5% auto; /* container horizontally */
+    width: 90%;
+}
+
+.SteveJobsPF{
+    border: 8px solid; color: red;
+    width: 400px;
+    height: auto;
+}
+
+a {
+    display: inline-blockd;
+    margin: 0;
+    padding: 0;
+}
+
+.first_hr {
+    margin: -4.8% 5% 1% 5%;
+    height: 3px;
+    background-color: #352f2f;
+    
+}
+
+.First_bio_text{
+    margin: 0.8% 5%; /* Further reduced margin */
+    border: 3px solid rgb(102, 8, 102);
+    padding-top: 8px   ; /* Further reduced padding */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+}
+
+.second_hr{
+    margin: 2% 5% 1% 5%;
+    height: 3px;
+    background-color: #352f2f;
+}
+
+.second_title{
+    text-align: center;
+    padding: 8px;
+    margin: 2% 5% 1% 5%; /* header horizontally */
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+.table{
+    margin: 2% 5% 1% 5%;
+}
+
+.square{
+    width: 300px; /* desired width and height for the square */
+    height: 300px;
+    overflow: hidden; 
+    padding: 1px 1px 2px 1px
+}
+
+.square img{
+    width: 100%; /* image fill the square */
+    height: 100%;
+    object-fit: fill;
+    border: 8px solid red;
+
+}
+
+.third_hr{
+    margin: 0.5% 5% 1% 5%;
+    height: 3px;
+    background-color: #352f2f;
+}
+
+.Quotes_1:hover {
+        background-color: rgb(248, 226, 199);
+}
+
+.Quotes_2:hover{
+    background-color: rgb(248, 226, 199);
+}
+
+.Quotes_3:hover{
+    background-color: rgb(248, 226, 199);
+}
+
+.Quotes_4{
+    text-align: center; 
+    vertical-align: middle; 
+    font-size: 20px; 
+    height: 20px; 
+    background-color: rgb(65, 252, 190);
+}
+
+
+.third_title{
+    text-align: center;
+    padding: 8px;
+    margin: 1.5% 5% 2% 5%;
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+.title_lst{
+    position: relative;
+    top: 0px;  
+    left: 10%; 
+}
+.onorderd_lst_invention{
+    position: relative;
+    top: 0px;
+    left: 13%;
+}
+
+.fourth_hr{
+    margin: 1% 5% 0% 5%;
+    height: 3px;
+    background-color: #352f2f;
+}
+
+
+.footer{
+    text-align: center;
+    padding: 8px;
+    margin: 1.5% 5% 5% 5%;
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+.special-link:hover{
+    background-color: rgb(7, 218, 7);
+}
+
+.footer-link:hover{
+    background-color: rgb(7, 218, 7);
+}
+
